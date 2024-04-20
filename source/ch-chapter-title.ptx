@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chapter Title</title>
+  <title>Kernel of Analysis</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> A point is <em>arbitrarily close</em> to a set when every neighborhood of the point intersects the set. </p>
+     <p> This notation of <em>arbitrarily close</em> provides the theme of the book and the kernel of analysis. It allows 
+      us to build a foundation for classic results in real analysis dealing with closure, limits and convergence, 
+      connectedness, continuity, differentiation and integration. </p>
   </introduction>
 
   <!-- include sections -->

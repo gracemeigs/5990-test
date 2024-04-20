@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Title</title>
+  <title>Arbitrarily close</title>
 
-  <p> Text of section. </p>
+  <p> Let's start with a couple of intervals and see if either has a largest element. 
+    The set of real numbers is denoted by &#8477; throughout the book, and the notation "&#119909; &#8712; &#8477;" 
+    means &#119909; is a real number. </p>
+    
+  <p> Problem 1.1.1. Consider the closed interval F and open interval G in Figure 1.1.1 given by </p>
+  <p> F=&#40;-&#8734;, 3140&#93;=&#119909; </p>
 
 </section>
